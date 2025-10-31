@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333622074443",
+    "project_id": "capl-d8b26",
+    "storage_bucket": "capl-d8b26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333622074443:android:ea89da5c829442b1c781ce",
+        "android_client_info": {
+          "package_name": "kr.co.capl.parking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIZE-o2sO0hEFLYaBXB9744KaVNGsp20w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
